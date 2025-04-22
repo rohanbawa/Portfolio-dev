@@ -45,10 +45,7 @@ export default function AboutSection() {
           >
             <h3 className="text-2xl font-bold mb-4 text-white">Creative Developer & Designer</h3>
             <p className="text-muted-foreground mb-6">
-              I'm a passionate developer and designer focused on creating immersive digital experiences 
-              that combine stunning visuals with intuitive functionality. With expertise in front-end
-              development, 3D web graphics, and interactive design, I strive to push the boundaries
-              of what's possible on the web.
+            I'm a passionate developer driven to build robust, scalable digital systems that power seamless user experiences. With hands-on expertise in Java, Spring Boot, REST APIs, and cloud technologies like AWS, I love designing solutions that are not just functional—but efficient, resilient, and future-ready. My work blends performance with purpose, ensuring every line of code solves real-world problems at scale..
             </p>
             <div className="grid grid-cols-2 gap-4 mb-6">
               <div>
